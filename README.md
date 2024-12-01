@@ -7,3 +7,14 @@ https://www.kaggle.com/datasets/mohsinakram821/preprocessed-bitcoin-transaction-
 
 We utilized Autoencode which is a powerful deep-learning algorithm for anomaly detection purposes. This research project enhances the security of hybrid networks, especially financial systems.
 
+## Results
+
+### Anomaly Detection Output
+The following graphs illustrate the performance of the Autoencoder algorithm on the Bitcoin transaction dataset:
+
+#### Detected Anomalies:
+![](download.png)
+
+These results demonstrate the effectiveness of the model in identifying anomalies in financial transaction data.
+
+
